@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/QRibbionGUI">
+        <file>bin/userdata/img/brush.png</file>
+        <file>bin/userdata/img/copy.png</file>
+        <file>bin/userdata/img/cut.png</file>
+        <file>bin/userdata/img/down.png</file>
+        <file>bin/userdata/img/iconExtent.png</file>
+        <file>bin/userdata/img/iconHide.png</file>
+        <file>bin/userdata/img/menu_data_hor.png</file>
+        <file>bin/userdata/img/menu_data_samples.png</file>
+        <file>bin/userdata/img/menu_data_sgy.png</file>
+        <file>bin/userdata/img/menu_model_data.png</file>
+        <file>bin/userdata/img/menu_model_model.png</file>
+        <file>bin/userdata/img/menu_model_train.png</file>
+        <file>bin/userdata/img/menu_predict.png</file>
+        <file>bin/userdata/img/menu_predict_data.png</file>
+        <file>bin/userdata/img/menu_predict_model.png</file>
+        <file>bin/userdata/img/menu_show_before.png</file>
+        <file>bin/userdata/img/menu_show_next.png</file>
+        <file>bin/userdata/img/menu_show_section1.png</file>
+        <file>bin/userdata/img/menu_show_section2.png</file>
+        <file>bin/userdata/img/menu_show_slice1.png</file>
+        <file>bin/userdata/img/menu_show_slice2.png</file>
+        <file>bin/userdata/img/menu_show_zoomAll.png</file>
+        <file>bin/userdata/img/Redo.png</file>
+        <file>bin/userdata/img/ruanjian.png</file>
+        <file>bin/userdata/img/save.png</file>
+        <file>bin/userdata/img/Skin.png</file>
+        <file>bin/userdata/img/TitleCloseButton.png</file>
+        <file>bin/userdata/img/TitleMaxButton.png</file>
+        <file>bin/userdata/img/TitleMinButton.png</file>
+        <file>bin/userdata/img/Undo.png</file>
+        <file>bin/userdata/img/zoomin.png</file>
+        <file>bin/userdata/img/zoomout.png</file>
+    </qresource>
+</RCC>
