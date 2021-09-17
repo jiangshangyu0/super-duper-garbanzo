@@ -1,8 +1,8 @@
 <UI version="4.0" >
- <class>QRibbionGUIClass</class>
- <widget class="QMainWindow" name="QRibbionGUIClass" >
+ <class>QTApplicationClass</class>
+ <widget class="QMainWindow" name="QTApplicationClass" >
   <property name="objectName" >
-   <string notr="true">QRibbionGUIClass</string>
+   <string notr="true">QTApplicationClass</string>
   </property>
   <property name="geometry" >
    <rect>
@@ -13,9 +13,8 @@
    </rect>
   </property>
   <property name="windowTitle" >
-   <string>QRibbionGUI</string>
-  </property>
-  <widget class="QMenuBar" name="menuBar" />
+   <string>QTApplication</string>
+  </property>  <widget class="QMenuBar" name="menuBar" />
   <widget class="QToolBar" name="mainToolBar" />
   <widget class="QWidget" name="centralWidget" />
   <widget class="QStatusBar" name="statusBar" />
@@ -23,7 +22,7 @@
  <layoutDefault spacing="6" margin="11" />
  <pixmapfunction></pixmapfunction>
  <resources>
-   <include location="qribbiongui.qrc"/>
+   <include location="QTApplication.qrc"/>
  </resources>
  <connections/>
 </UI>
